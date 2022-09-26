@@ -1,4 +1,4 @@
-const host = "http://localhost:5000";
+const host = "https://admin-panel-api-vikku.herokuapp.com/";
 const registerRoute = `${host}/api/auth/register`;
 const loginRoute = `${host}/api/auth/login`;
 const logoutRoute = `${host}/api/auth/logout`;
